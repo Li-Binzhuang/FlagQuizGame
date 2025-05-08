@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国旗猜猜猜</string>
+    <string name="question_format">问题 %1$d/%2$d</string>
+    <string name="question_text">这是哪个国家的国旗？</string>
+    <string name="btn_next">下一题</string>
+    <string name="btn_show_result">查看结果</string>
+    <string name="feedback_correct">对喽!</string>
+    <string name="feedback_incorrect">错啦!...孩子!</string>
+    <string name="result_title">游戏结果</string>
+    <string name="score_format">正确题数: %1$d/%2$d</string>
+    <string name="accuracy_format">正确率: %.1f%%</string>
+    <string name="btn_play_again">再来一轮</string>
+    <string name="btn_exit">退出游戏</string>
+    <string name="TT">测试你的国家知识</string>
+    <string name="_0_10">正确题数: 0/10</string>
+    <string name="_0">正确率: 0%</string>
+    <string name="res">游戏结果</string>
+    <string name="more">再来一轮</string>
+    <string name="exit">退出游戏</string>
+</resources>
