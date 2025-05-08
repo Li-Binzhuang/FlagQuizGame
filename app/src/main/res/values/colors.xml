@@ -10,4 +10,5 @@
     <color name="option_normal">#FF2196F3</color>
     <color name="option_correct">#FF4CAF50</color>
     <color name="option_incorrect">#FFF44336</color>
+    <color name="back_ground">#F7EED6</color>
 </resources>
